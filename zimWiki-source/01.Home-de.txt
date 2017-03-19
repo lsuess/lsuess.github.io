@@ -32,7 +32,7 @@ Derzeit arbeite ich an DemonstrationsImplementierungen von:
 
 Ein paar andere Dinge die ich veröffentlicht habe, liegen verstreut auf den jeweils passenden gratis web-hosting-providern (sofern passende hosting-provider existieren) Hier ist ein [[https://sites.google.com/site/mechadense/home|Link zu meinen diversen Accounts.]]
 
-Diese Homepage ist gehostet auf Github.
+Diese Homepage ist gehostet auf Github. (Sie basiert auf der [[http://zim-wiki.org/|zim-wiki]] Software - ein Desktop-Wiki)
 Außerdem auf Github sind meine selbsterstellten Software-Bibliotheken:
 * •[[https://github.com/lsuess/scad-lib-cyclogearprofiles|scad-lib-cyclogearprofiles]]
 * •weitere kommen ...
