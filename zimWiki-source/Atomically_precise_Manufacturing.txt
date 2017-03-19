@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-03-10T14:54:22+01:00
+
+====== Atomically precise Manufacturing ======
+* [[http://www.apm.bplaced.net|Go to the Wiki]]
+
+Gem-gum factories are from thumbnail to shipyard sized production devices that can make virtually anything from the most abundant raw materials there are (there are some limitations regarding organic stuff like food though). The current official term for this technology is "high throughput [[Atomically precise Manufacturing]]". It was introduced by Eric K. Drexler in his Book Radical Abundance.
+
+* Switch Language: [[:Atomar präzise Herstellung|(de)]] 
+
+Created Freitag 10 März 2017

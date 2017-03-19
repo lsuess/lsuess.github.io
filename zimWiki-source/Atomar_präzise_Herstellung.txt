@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-03-10T15:21:02+01:00
+
+====== Atomar präzise Herstellung ======
+* [[http://apm.bplaced.net/w/index.php?title=Mechandense%27s_Wiki_%C3%BCber_atomar_pr%C3%A4zise_Herstellung|direkt zum Wiki]]
+
+EdelsteinGummi-Fabriken sind zukünftige Produktionsgeräte die "nahezu alles" produzieren können. Als Rohstoff dafür reichen die chemischen Elementen aus die am weitesten verbreitet oder am besten zugänglich sind. Einzig gibt es gewisse Limitationen bezüglich organischen Produkten wie Nahrungsmitteln uns Körperersatzteilen. (Stark auf organische Synthese spezialisierte Geräte mit recht umfangreichen Fähigkeiten sind denkbar aber fallen nicht in die Klasse reiner EdelsteinGummi-Fabriken). Nicht organische EdelsteinGummi-Fabriken lassen sich im Gegensatz zu vielen anderen Aspekten der Zukunft verlässlich vorhersagen. Die Methoden des "erkundenden Konstruktionswesens" ("exploratory engineering") sind es die es erlauben verlässlich vorhersehbare Teilmengen der Zukunft zu isolieren.
+
+Die derzeitige öffentliche Bezeichnung für die Technologie ist //"Hochdurchsatz atomar präzise Herstellung" //Diese Bezeichnung wurde 2013 von Eric K. Drexler in seinem Buch "Radical Abundance" eingeführt. Informationen über die Technologie sind auch unter dem älteren Begriff //"molekulare Nanotechnologie"// zu finden. **ACHTUNG: **"Nanotechnologie" als Suchbegriff alleine führt hauptsächlich zu NICHT atomar präzisen formen von Nanotechnologie die nur wenig bis gar nichts mit "Hochdurchsatz atomar präziser Herstellung" zu tun haben. Persönlich verwende ich den freundlicheren Begriff "EdelsteinGummi-Technologie" oder "Gem-Gum-Tech" da er die Technologie erstens gut charakterisiert und zweitens leicht zu merken und auszusprechen ist (catchy).
+
+Je nach Anwendungsfall haben EdelsteinGummi-Fabriken voraussichtlich Größen zwischen Münzen und Schiffswerften. EdelsteinGummi-Fabriken jeder Größe können upgegradete EdelsteinGummi-Fabriken produzieren. **ACHTUNG: **Das Konzept von Schwärmen selbst-replizierender Nanomaschinen (molekulare Assembler) zur privat- und großindustriellen Produktion ist veraltet. Es wird von den Experten im Bereich atomar präziser Herstellung nicht mehr vertreten.
+
+Hier geht es zum [[http://apm.bplaced.net/w/index.php?title=Mechandense%27s_Wiki_%C3%BCber_atomar_pr%C3%A4zise_Herstellung|deutschsprachigen Portal des Wikis über Edelsteingummi-Technologie.]]
+Dort sind wesentlich mehr Details zu finden.
+
+Erstellt Freitag 10 März 2017

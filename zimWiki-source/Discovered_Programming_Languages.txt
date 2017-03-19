@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-03-10T15:36:22+01:00
+
+====== Discovered Programming Languages ======
+
+* **Video:** "[[https://www.youtube.com/watch?v=IOiZatlZtGU|Propositions as Types]]"  Presentation by Philip Wadler 
+
+If you are a programmer and you haven't yet checked out at least one programming language that has strong guarantees for the non-existence of mutation of hidden state (aka pureness / declarativeness) I highly recommend to do so. Some programming languages with this property are: Haskell / Purescript / Elm / OpenSCAD / ... Of course like all programming languages those have their fair share of problems too.
+
+
+Created Freitag 10 März 2017
