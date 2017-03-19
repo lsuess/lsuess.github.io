@@ -3,14 +3,13 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-03-09T16:34:36+01:00
 
 ====== Lukas M. Süss (aka mechadense) ======
-{{./Portraitsnap Lukas M. Süss.jpg?height=184}} {{./3D Print collection Lukas M. Süss aka mechadense.jpg?height=184}}
-
+{{./Portraitsnap Lukas M. Süss.jpg?height=184}} {{./3D Print collection Lukas M. Süss aka mechadense.jpg?height=184}},
 {{./MailAdress.svg}}
 
-* >**E-mail: **(siehe Bild oben)
-* >**Homepage:** https://lsuess.github.io/index.html
-* >**Wohnort:** Österreich Wien
-* >switch language [[00.Home-en|(en)]]
+* •**E-mail: **(siehe Bild oben)
+* •**Homepage:** https://lsuess.github.io/index.html
+* •**Wohnort:** Österreich Wien
+* •switch language [[00.Home-en|(en)]]
 
 ===== Interessen =====
 Meine primären Interessen liegen im Bereich von **fortgeschrittenen Hersellungsmethoden** (sowohl in naher als auch in fernerer Zukunft) die** materielle Deglobalisierung **fördern. Es geht um lokale Herstellungsmethoden die großindustrielle Herstellungsmethoden ohne inakzeptablem Verlust an Produktfunktionalität ersetzen können. In naher Zukunft liegt der 3D-Druck sowie kleinskaliger automatisierter robotischer Zusammenbau für Zuhause. In fernerer Zukunft liegt [[Atomar präzise Herstellung|atomar präzise Herstellung]] mit EdelsteinGummiFabriken für die Hosentasche.
@@ -23,20 +22,20 @@ Freizeitinteressen gebe ich gerne bei persönlicher Bekanntschaft bekannt / e-ma
 
 ===== Veröffentlichte Arbeit =====
 Der größte Teil meiner derzeit veröffentlichten Arbeit ist zu finden auf:
-* >[[https://www.thingiverse.com/mechadense/designs|Meinem Thingiverse Account]] (freie 3D-Modelle zum 3D-Drucken) 
-* >[[http://www.apm.bplaced.net|Meinem APM-wiki]] (Informationen über das Thema atomar präzise Herstellung)
+* •[[https://www.thingiverse.com/mechadense/designs|Meinem Thingiverse Account]] (freie 3D-Modelle zum 3D-Drucken) 
+* •[[http://www.apm.bplaced.net|Meinem APM-wiki]] (Informationen über das Thema atomar präzise Herstellung)
 
 Derzeit arbeite ich an DemonstrationsImplementierungen von:
-* >Einem [[http://reprap.org/wiki/ReChain_Frame_System|ArmierungsKetten basierten Rahmensystem Prinzip (en)]]
-* >Einer [[http://reprap.org/wiki/RepRec|Klasse von selbst replizierenden Pick & Place Robotern (en)]]
-* >und einigen weiteren Kleinprojekten ...
+* •Einem [[http://reprap.org/wiki/ReChain_Frame_System|ArmierungsKetten basierten Rahmensystem Prinzip (en)]]
+* •Einer [[http://reprap.org/wiki/RepRec|Klasse von selbst replizierenden Pick & Place Robotern (en)]]
+* •und einigen weiteren Kleinprojekten ...
 
 Ein paar andere Dinge die ich veröffentlicht habe, liegen verstreut auf den jeweils passenden gratis web-hosting-providern (sofern passende hosting-provider existieren) Hier ist ein [[https://sites.google.com/site/mechadense/home|Link zu meinen diversen Accounts.]]
 
 Diese Homepage ist gehostet auf Github.
 Außerdem auf Github sind meine selbsterstellten Software-Bibliotheken:
-* >[[https://github.com/lsuess/scad-lib-cyclogearprofiles|scad-lib-cyclogearprofiles]]
-* >weitere kommen ...
+* •[[https://github.com/lsuess/scad-lib-cyclogearprofiles|scad-lib-cyclogearprofiles]]
+* •weitere kommen ...
 
 ===== Sprache =====
 **Anmerkung zur Wahl von Englisch als Hauptveröffentlichungssprache:**
