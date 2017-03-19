@@ -7,13 +7,13 @@ Creation-Date: 2017-03-02T12:22:12+01:00
 
 {{./MailAdress.svg}}
 
-* **e-mail:** (see image above)
-* **homepage:** https://lsuess.github.io/index.html
-* **residence:** Austria Vienna
-* Sprache wechseln [[01.Home-de|(de)]]
+* >**e-mail:** (see image above)
+* >**homepage:** https://lsuess.github.io/index.html
+* >**residence:** Austria Vienna
+* >Sprache wechseln [[01.Home-de|(de)]]
 
 ===== Interests =====
-My primary interests lie in the area of **advanced forms of manufacturing** (both in the near and the more remote future) which foster **material deglobalization. **This is about local methods of manufacturing which can replace industrial methods of manufacturing without an **unacceptable** loss of product functionality. In the near future there lies //3D-printing and small scale robotic assembly// that's usable at home. In the more remote future there's [[Atomically precise Manufacturing|atomically precise manufacturing]] of// with gem-gum-factories //for your pants pockets.
+My primary interests lie in the area of **advanced forms of manufacturing** (both in the near and the more remote future) which foster **material deglobalization. **This is about local methods of manufacturing which can replace industrial methods of manufacturing without an unacceptable loss of product functionality. In the near future there lies //3D-printing and small scale robotic assembly// that's usable at home. In the more remote future there's [[Atomically precise Manufacturing|atomically precise manufacturing]] of// with gem-gum-factories //for your pants pockets.
 
 Furthermore I'm interested in **advanced forms of programming.**
 That is programming languages that where [[Discovered Programming Languages|discovered]] and not invented (citing Phillip Wadler). Such languages are — to little surprise — more practical for very large scale system engineering.
@@ -23,20 +23,20 @@ More of my far reaching other secondary technical interests can be found **here*
 
 ===== Published Work =====
 Most of my published work can be found on:
-* [[https://www.thingiverse.com/mechadense/designs|My]] [[https://www.thingiverse.com/mechadense/designs|T]][[https://www.thingiverse.com/mechadense/designs|i]][[https://www.thingiverse.com/mechadense/designs|n]][[https://www.thingiverse.com/mechadense/designs|g]][[https://www.thingiverse.com/mechadense/designs|i]][[https://www.thingiverse.com/mechadense/designs|v]][[https://www.thingiverse.com/mechadense/designs|e]][[https://www.thingiverse.com/mechadense/designs|r]][[https://www.thingiverse.com/mechadense/designs|s]][[https://www.thingiverse.com/mechadense/designs|e]] [[https://www.thingiverse.com/mechadense/designs|a]][[https://www.thingiverse.com/mechadense/designs|c]][[https://www.thingiverse.com/mechadense/designs|c]][[https://www.thingiverse.com/mechadense/designs|o]][[https://www.thingiverse.com/mechadense/designs|u]][[https://www.thingiverse.com/mechadense/designs|n]][[https://www.thingiverse.com/mechadense/designs|t]] (free 3D models for 3D printing)
-* [[http://www.apm.bplaced.net|My APM-wiki]] (informations about the topic of atomically precise manufacturing)
+* >[[https://www.thingiverse.com/mechadense/designs|My]] [[https://www.thingiverse.com/mechadense/designs|T]][[https://www.thingiverse.com/mechadense/designs|i]][[https://www.thingiverse.com/mechadense/designs|n]][[https://www.thingiverse.com/mechadense/designs|g]][[https://www.thingiverse.com/mechadense/designs|i]][[https://www.thingiverse.com/mechadense/designs|v]][[https://www.thingiverse.com/mechadense/designs|e]][[https://www.thingiverse.com/mechadense/designs|r]][[https://www.thingiverse.com/mechadense/designs|s]][[https://www.thingiverse.com/mechadense/designs|e]] [[https://www.thingiverse.com/mechadense/designs|a]][[https://www.thingiverse.com/mechadense/designs|c]][[https://www.thingiverse.com/mechadense/designs|c]][[https://www.thingiverse.com/mechadense/designs|o]][[https://www.thingiverse.com/mechadense/designs|u]][[https://www.thingiverse.com/mechadense/designs|n]][[https://www.thingiverse.com/mechadense/designs|t]] (free 3D models for 3D printing)
+* >[[http://www.apm.bplaced.net|My APM-wiki]] (informations about the topic of atomically precise manufacturing)
 
 Currently I'm working on demo-implementations of:
-* [[http://reprap.org/wiki/ReChain_Frame_System|a reinforcement chain based frame system principle (ReChain)]]
-* [[http://reprap.org/wiki/RepRec|a class of self replicating Pick & Place Robots (RepRec)]]
-* and some other stuff ...
+* >[[http://reprap.org/wiki/ReChain_Frame_System|a reinforcement chain based frame system principle (ReChain)]]
+* >[[http://reprap.org/wiki/RepRec|a class of self replicating Pick & Place Robots (RepRec)]]
+* >and some other stuff ...
 
 A few other things which I have published are dispersed over the respectively matching web-hosting-providers (provided there are suitable gratis hosting-services). Here's a [[https://sites.google.com/site/mechadense/home|link to my diverse presences on the web]].
 
 This homepage is hosted on Github.
 My Github Repositories:
-* [[https://github.com/lsuess/scad-lib-cyclogearprofiles|scad-lib-cyclogearprofiles]]
-* more coming up ...
+* >[[https://github.com/lsuess/scad-lib-cyclogearprofiles|scad-lib-cyclogearprofiles]]
+* >more coming up ...
 
 
 Created Thursday 2017-03-02
