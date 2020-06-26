@@ -7,7 +7,7 @@ Creation-Date: 2017-03-09T16:34:36+01:00
 {{./MailAdress.svg}}
 
 ★ **E-mail: **(siehe Bild oben)
-★ **Homepage:** https://lsuess.github.io/index.html
+★ **Homepage:** https://mechadense.github.io/index.html
 ★ **Wohnort:** Österreich Wien
 ★ switch language [[00.Home-en|(en)]]
 
@@ -34,7 +34,7 @@ Ein paar andere Dinge die ich veröffentlicht habe, liegen verstreut auf den jew
 
 Diese Homepage ist gehostet auf Github. (Sie basiert auf der [[http://zim-wiki.org/|zim-wiki]] Software - ein Desktop-Wiki)
 Außerdem auf Github sind meine selbsterstellten Software-Bibliotheken:
-★ [[https://github.com/lsuess/scad-lib-cyclogearprofiles|scad-lib-cyclogearprofiles]]
+★ [[https://github.com/mechadense/scad-lib-cyclogearprofiles|scad-lib-cyclogearprofiles]]
 ★ weitere kommen ...
 
 ===== Sprache =====
